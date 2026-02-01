@@ -1,2 +1,2 @@
-# openclaw-workspace
-OpenClaw AI Agent - Workspace &amp; Automation
+# Job-JP Thinker
+OC AI Agent - Workspace &amp; Automation
